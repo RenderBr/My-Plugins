@@ -7,6 +7,7 @@ All of these plugins are currently confirmed working by me. I have either used t
 - [Banker](https://github.com/Terraria-Builders-Community/Banker) - a simple economy plugin, integrates with Appointer (rewritten SEConomy/SimpleEcon)
 - [Connector](https://github.com/Terraria-Builders-Community/MultiServerChat) - an updated & improved multi-server chat fork
 - [Prizes](https://github.com/Terraria-Builders-Community/Prizes) - vote rewards & chat games
+- [Supplier](https://github.com/RenderBr/Supplier) - infinite chests redone
 - [SurvivalOnTBC](https://github.com/Terraria-Builders-Community/SurvivalOnTBC) - AverageTerrariaSurvival rewrite, a base for TBC's upcoming survival dimension.
 - [TileWatch](https://github.com/RenderBr/TileWatch) - [WIP] History rebuilt from the ground up (tile monitoring/history, tile rollbacks, more)
 - [tShockAutoBC](https://github.com/Average-Org/tShockAutoBC) - Autobroadcast / Command Trigger plugin
